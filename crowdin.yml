@@ -1,4 +1,4 @@
-commit_message: 'Yo, man'
+commit_message: 'This is custom commit message'
 
 files:
   - source: /**/*
