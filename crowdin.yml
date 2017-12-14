@@ -1,3 +1,4 @@
+commit_message: 'Yo, man'
 files:
   - source: /**/*
     translation: /%locale%/%original_file_name%
