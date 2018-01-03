@@ -1,3 +1,18 @@
+msgid ""
+msgstr ""
+"Translation (this field can be empty when imported to Crowdin)\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: project76\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/Folder 2/Example.po\n"
+"Project-Id-Version: project76\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: d.sopronchuk <d.sopronchuk@crowdin.com>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2018-01-02 21:40-0500\n"
+
 # You can place some context here
 msgid "String for translation #1"
 msgstr ""
