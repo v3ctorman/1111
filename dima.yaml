@@ -1,0 +1,4 @@
+commit_message: This is custom commit message
+files:
+  - source: /**/*
+    translation: /%locale%/%original_file_name%
